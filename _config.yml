@@ -10,5 +10,9 @@ url: "" # the base hostname & protocol for your site
 instagram_username: arbeitengenharia
 facebook_username: Arbeit Engenharia
 
+# Whatsapp
+whatsapp_number: 554799541738
+whatsapp_display_number: (47) 99954-1738
+
 # Build settings
 markdown: kramdown
