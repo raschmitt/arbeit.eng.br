@@ -41,7 +41,7 @@ hr.star-primary {
 	margin: 25px auto 30px
 }
 
-hr.star-light:after,
+/* hr.star-light:after,
 hr.star-primary:after {
 	content: "\f005";
 	font-family: FontAwesome;
@@ -50,7 +50,7 @@ hr.star-primary:after {
 	top: -.8em;
 	font-size: 2em;
 	padding: 0 .25em
-}
+} */
 
 .nav-bar-icon {
 	height: 50px;
