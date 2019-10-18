@@ -53,8 +53,8 @@ hr.star-primary:after {
 } */
 
 .nav-bar-icon {
-	height: 50px;
-	border-radius: 50%;
+	height: 45px;
+	border-radius: 10%;
 }
 
 .navbar-custom,
